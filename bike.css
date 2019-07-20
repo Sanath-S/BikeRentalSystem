@@ -1,0 +1,38 @@
+.colbikePic{
+	position: relative;
+	display: inline-block;
+   	text-align:center;
+	vertical-align: middle;
+	
+}
+
+.bikes{
+	position: relative;
+	width:80%;
+	vertical-align: middle;
+}
+.coldata{
+	position: relative;
+	display: inline-block;
+    vertical-align:middle;
+	text-align:center;
+	padding: 0px;
+ }
+ .orderBtn{
+	position: relative;
+	margin: 5px;
+}
+.Btn{
+	position: center;
+	background-color: rgba( 255,153,0, 1);
+    border: none;
+    width: 80px;
+    height: 30px;
+	color: white;
+    font-size: 15px;
+	padding: 0px;
+	
+}
+table td, table th {
+	border: 2px solid #E9E9E9;
+}
